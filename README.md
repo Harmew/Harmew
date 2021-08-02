@@ -1,6 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-de-oliveira-8b0368173/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harmew.visitor-badge)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263298686908366851)
 <br>
 
 ## 🐊 Bem vindo
