@@ -9,6 +9,9 @@ Atualmente sou um estudante de programação, frequentemente estarei enviando me
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harmew&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <br>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmew&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
