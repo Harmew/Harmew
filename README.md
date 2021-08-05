@@ -20,4 +20,8 @@
 vejo você em uma outra hora
 </div>
 
+<<<<<<< HEAD
 <hr>
+=======
+<hr>
+>>>>>>> b570fb638367780c6193993a8f959d17617c29a8
