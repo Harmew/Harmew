@@ -1,7 +1,7 @@
 <h1 align=center >
 
-<img src='./assets/wordart.png' width=80%>
-
+<img src='./assets/runcat.gif'>
+   
 </h1>
 
 <div align=center>
