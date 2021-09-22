@@ -9,7 +9,7 @@
    <p>atualmente sou um estudante de programação, frequentemente estarei enviando<br>meus projetos para ver minha evolução, caso se interesse, estará tudo público</p> 
 <img src='./assets/sapo.gif'>   
  
-   <p>estudo no momento HTML, CSS e JavaScript</p> 
+   <p>estudo no momento HTML, CSS e JavaScript e um pouco de NodeJs</p> 
 
 <hr>   
    
