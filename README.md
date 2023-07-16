@@ -9,7 +9,7 @@
    <p>Sou um estudante de ciencia da computação estudando na UniCuritiba, e aqui estarei publicando meus repositórios conforme o tempo</p> 
 <img src='./assets/sapo.gif'>   
  
-   <p>Atualmente tenho conhecimentos em Angular, ReactJs, NextJs, MySQL, MongoDB e SASS</p> 
+   <p>Atualmente trabalho em uma Telecom utilizando, React, React Native e Node</p> 
 
 <hr>   
    
